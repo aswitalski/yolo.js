@@ -1,0 +1,22 @@
+{
+  "name": "yolo.js",
+  "version": "0.0.1",
+  "description": "You Only Live Once",
+  "main": "yolo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswitalski/yolo.js.git"
+  },
+  "keywords": [
+    "yolo"
+  ],
+  "author": "Aleksander Świtalski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aswitalski/yolo.js/issues"
+  },
+  "homepage": "https://github.com/aswitalski/yolo.js#readme"
+}
